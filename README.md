@@ -19,7 +19,12 @@ Ensure you have the following installed:
 
 ### Installation
 
-1. Clone the repository:
+1. Install dependencies:
    ```bash
-   git clone <repository_url>
-   cd CalculateDueDate
+   npm install
+
+2. Run unit tests: 
+   ```bash
+    npx jest
+
+
